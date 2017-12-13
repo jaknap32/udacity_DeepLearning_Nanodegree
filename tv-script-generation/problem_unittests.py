@@ -309,4 +309,3 @@ def test_pick_word(pick_word):
 
 
     _print_success_message()
-
